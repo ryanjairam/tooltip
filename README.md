@@ -14,9 +14,9 @@ A jQuery plugin for modern tooltips supporting dynamic elements and messages.
 ## Usage
 There are two ways that tooltips can be added to an element:  
 
-[Method 1: Using only JavaScript (RECOMMENDED)](method-1-using-javascript)  
+[Method 1: Using only JavaScript (RECOMMENDED)](#method-1-using-javascript)  
 
-[Method 2: Using HTML attributes and classes](method-2-using-html-attributes-and-classes)
+[Method 2: Using HTML attributes and classes](#method-2-using-html-attributes-and-classes)
 
 ---
 ### Method 1: Using JavaScript
