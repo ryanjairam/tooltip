@@ -6,9 +6,9 @@ A jQuery plugin for modern tooltips supporting dynamic elements and messages.
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 ```
-### 2. Download tooltip-complete.min.js and include it in your project
+### 2. Download tooltip-bundle.min.js and include it in your project
 ```html
-<script src="[YOUR-SCRIPTS-DIRECTORY]/tooltip-complete.min.js"></script>
+<script src="[YOUR-SCRIPTS-DIRECTORY]/tooltip-bundle.min.js"></script>
 ```
 
 ## Usage
